@@ -1,2 +1,5 @@
 # CI-CD-Project-1
-This is my first project to show case my skills
+Jenkins is a widely used open-source automation tool that helps developers and
+teams automate and streamline various tasks related to building, testing, and
+deploying the applications.
+
